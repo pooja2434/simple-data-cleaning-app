@@ -18,4 +18,6 @@ python -m pip install --upgrade pip
 pip show streamlit
 python -m streamlit run app.py
 
+[!Preview the app here](https://github.com/pooja2434/simple-data-cleaning-app/blob/master/Streamlit%20-%20Local%20host.png)
+
 
